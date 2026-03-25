@@ -42,6 +42,6 @@
 
 ## SirMestreRDR2Base
 <div align="center">
-  <img src="https://github.com/SirMestre/SirMestreRDR2Base/base.jpg" alt="SINGULARITY Menu" width="400"/>
+  <img src="https://github.com/SirMestre/SirMestreRDR2Base/base.png" alt="base png" width="400"/>
 </div>
 Updated fork of [SirMestre's RDR2 Base](https://github.com/SirMestre/SirMestreRDR2Base) — grab it [here](https://github.com/specialktm/SirMestreRDR2Base).

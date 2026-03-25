@@ -24,7 +24,7 @@ A custom-built mod menu for **Red Dead Redemption 2**, featuring a full ImGui-ba
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/specialktm/SirMestreRDR2Base/main/base.png" alt="RDR2 Base" width="400"/>
+<img src="https://github.com/SirMestre/SirMestreRDR2Base/blob/master/base.png" alt="RDR2 Base" width="400"/>
 
 </div>
 

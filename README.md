@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="imgs/menuImage.jpg" alt="SINGULARITY Menu" width="700"/>
+<img src="imgs/menuImage.jpg" alt="SINGULARITY Menu" width="400"/>
 
 </div>
 
@@ -24,7 +24,7 @@ A custom-built mod menu for **Red Dead Redemption 2**, featuring a full ImGui-ba
 
 <div align="center">
 
-<img src="base.png" alt="RDR2 Base" width="700"/>
+<img src="https://raw.githubusercontent.com/specialktm/SirMestreRDR2Base/main/base.png" alt="RDR2 Base" width="400"/>
 
 </div>
 

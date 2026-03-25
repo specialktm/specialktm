@@ -3,7 +3,7 @@
 # Special K
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=specialktm&theme=modern-lilac)](https://git.io/streak-stats)
-
+![specialktm's Stats](https://github-readme-stats.vercel.app/api?username=specialktm&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 </div>
 
 ---
